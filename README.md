@@ -1,5 +1,5 @@
 # git_sample_project
 
-Buurası projenin readme.md dosyası.
+Buraası projenin readme.md dosyası yagiz editledi .
 
 
