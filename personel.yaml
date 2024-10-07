@@ -1,0 +1,15 @@
+personel:
+  id: 86912
+  name: Yagiz
+  lastname: Tekdas
+  age: 30
+  phone_number: 5418354800
+  department: IT Department
+  country: Turkiye
+  email: yagistekdas@gmail.com
+  experience: 3 year
+  adres:
+    street: Zeytin Sokak
+    city: İzmir
+    district: Balçova
+    postal_code: 35500

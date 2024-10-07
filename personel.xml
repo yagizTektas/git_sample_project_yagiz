@@ -1,0 +1,17 @@
+<personel>
+    <id>86912</id>
+    <name>Yagiz</name>
+    <lastname>Tekdas</lastname>
+    <age>30</age>
+    <phone_number>5418354800</phone_number>
+    <department>IT Department</department>
+    <country>Turkiye</country>
+    <email>yagistekdas@gmail.com</email>
+    <experience>3 year</experience>
+    <adres>
+        <street>Zeytin Sokak</street>
+        <city>İzmir</city>
+        <district>Balçova</district>
+        <postal_code>35500</postal_code>
+    </adres>
+</personel>
