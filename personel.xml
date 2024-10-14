@@ -1,5 +1,4 @@
-<personel>
-    <id>86912</id>
+<personel id="86912">
     <name>Yagiz</name>
     <lastname>Tekdas</lastname>
     <age>30</age>
